@@ -1,0 +1,63 @@
+/*
+ Cherry Blossom Zen Garden Style Guide
+ by Mara Smith, Alex Courter, and Gilda Gallegos
+ */
+
+@import 'partials/reset';
+@import 'partials/prefix-mixins';
+@import 'partials/layout'; // responsive grid and media queries
+
+/* -------------------------------- 
+
+xVariables
+
+-------------------------------- */
+@import 'partials/variables';
+/* -------------------------------- 
+
+xBackground 
+
+-------------------------------- */
+@import 'partials/background';
+
+/* -------------------------------- 
+
+xPatterns
+
+-------------------------------- */
+
+@import 'partials/patterns';
+
+/* -------------------------------- 
+
+xNavigation 
+
+-------------------------------- */
+@import 'partials/navigation';
+
+/* -------------------------------- 
+
+xPage title 
+
+-------------------------------- */
+@import 'partials/title';
+/* -------------------------------- 
+
+xTypography 
+
+-------------------------------- */
+@import 'partials/typography';
+
+/* -------------------------------- 
+
+xButtons 
+
+-------------------------------- */
+@import 'partials/buttons';
+
+/* -------------------------------- 
+
+xBasic Style
+
+-------------------------------- */
+@import 'partials/basic-style';
